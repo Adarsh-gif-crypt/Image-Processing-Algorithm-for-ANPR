@@ -7,3 +7,5 @@ Libraries used - <br>
 - Numpy
 - Matplotlib
 - Pytesseract
+
+Extracts text from the final <br> processed image.
