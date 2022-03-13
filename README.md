@@ -1,2 +1,9 @@
-# Image-Smoothening-Custom-Workflow
-Repository containing all the trials and updates on Smoothening and processing images before applying Optical Character Recognition
+### Image-Smoothening-Custom-Workflow
+Repository containing all the trials and updates on<br>
+Smoothening and processing images before applying Optical Character Recognition
+
+Libraries used - <br>
+- OpenCV
+- Numpy
+- Matplotlib
+- Pytesseract
